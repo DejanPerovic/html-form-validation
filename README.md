@@ -1,8 +1,5 @@
 # html-form-validation
 Validation Review
-Awesome job adding client-side validation to forms!
-
-Let's quickly recap:
 
 Client-side validations happen in the browser before information is sent to a server.
 Adding the required attribute to an input related element will validate that the input field has information in it.
