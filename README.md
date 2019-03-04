@@ -15,6 +15,6 @@ Assigning a value to the maxlength attribute of a text input element will valida
 
 Assigning a regex to pattern matches the input to the provided regex.
 
-If validations on a <form> do not pass, the user gets a message explaining why and the <form> cannot be submitted.
+If validations on a form do not pass, the user gets a message explaining why and the form cannot be submitted.
 
 These quick checks help ensure that input data is correct and safe for our servers. It also helps give users immediate feedback on what they need to fix instead of having to wait for a server to send back that information.
